@@ -1,0 +1,229 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true London prophet. Or, Comical remarkes, and predictions for the future part of this year, 1699 Infalibly fortelling what will certainly happen (whither the stars will or no) both in court, city and countrey, betwixt this and Whit-Sunday next, to which is added a discovery of many pritty intrigues that will be used among the noble society of distilers, and other traders. Also some brief touches upon the humours, and conversations of the town beau's, and city misse's, with varity of other merry and pleasent circumstances respecting these times. Being very diverting to all, and hurtful to none.</title>
+            <author>R. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63547</idno>
+            <idno type="STC">Wing T2733C</idno>
+            <idno type="STC">ESTC R208924</idno>
+            <idno type="EEBO-CITATION">99825421</idno>
+            <idno type="PROQUEST">99825421</idno>
+            <idno type="VID">29803</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63547)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 29803)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1876:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true London prophet. Or, Comical remarkes, and predictions for the future part of this year, 1699 Infalibly fortelling what will certainly happen (whither the stars will or no) both in court, city and countrey, betwixt this and Whit-Sunday next, to which is added a discovery of many pritty intrigues that will be used among the noble society of distilers, and other traders. Also some brief touches upon the humours, and conversations of the town beau's, and city misse's, with varity of other merry and pleasent circumstances respecting these times. Being very diverting to all, and hurtful to none.</title>
+                  <author>R. B.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author, next door to the sign of the want of Money in Dull-Trade-Yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1699]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"To the courtuous [sic], (not carping) reader" signed: RB.</note>
+                  <note>Caption title.</note>
+                  <note>With colophon: London, printed in the year, 1699.</note>
+                  <note>Copy cropped.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>English wit and humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:29803:1"/>
+            <head>The true London Prophet.</head>
+            <head type="sub">OR, Comical Remarkes, and Predictions for the future part of this Year, 1699. Infalibly fortelling What will Certainly happen (whither the Stars will or no) both in Court, City and Countrey, betwixt this and <hi>Whit-Sunday</hi> next, To which is added A Diſcovery of many pritty Intrigues that will be uſed a<g ref="char:EOLhyphen"/>mong the noble Society of <hi>Diſtilers,</hi> and other Traders. Alſo ſome brief touches upon the Humours, and Converſati<g ref="char:EOLhyphen"/>ons of the Town <hi>Beau's,</hi> and City <hi>Miſſe's,</hi> with varity of other merry and pleaſent Circumſtances reſpecting theſe Times. Being very diverting to all, and hurtful to None.</head>
+            <p>London, <hi>Printed for the Author, next Door to the Sign of the want of Money in</hi> Dull-Trade-Yard.</p>
+            <div type="poem">
+               <head>To the Courtuous, (not Carping) Reader.</head>
+               <lg>
+                  <l>HEre's no Speaking Dragon, or <hi>Weather-Cock-Steeple,</hi>
+                  </l>
+                  <l>Nor talkative <hi>Monkeys</hi> to frighten the People,</l>
+                  <l>No <hi>Tygars,</hi> nor <hi>Wolves</hi> that do ſpeak without reaſon,</l>
+                  <l>Such words as ſome Folkes do count damnable Treaſon</l>
+                  <l>Nor no barking <hi>Bull-Doggs</hi> to put us in fear</l>
+                  <l>But the plain Naked Truth that will happen this Year,</l>
+                  <l>You may Read the Book o'er for no Factions are here</l>
+                  <l>Here's nothing of <hi>Chamberlins</hi> going to'th <hi>Dutch,</hi>
+                  </l>
+                  <l>What Money he Carried 'em little or much.</l>
+                  <l>Nor Nothing of ſtate affairs here will <hi>I</hi> write,</l>
+                  <l>For fear of the Plague of a Dam'd <hi>Jacobite.</hi>
+                  </l>
+                  <l>But hold? I'll no longer keep you at Door,</l>
+                  <l>Peep into the Houſe, and ſo view it all o're,</l>
+                  <l>If you do but buy it I care for no more.</l>
+               </lg>
+               <closer>
+                  <signed>Yours <hi>R. B.</hi>
+                  </signed>
+               </closer>
+            </div>
+            <div type="prognostications">
+               <pb n="2" facs="tcp:29803:2"/>
+               <head>Predictions for the Year, <hi>1699.</hi>
+               </head>
+               <p>AS ſure as Knavry has got the ſtart Honeſty, Poverty and Prid this <hi>Summer</hi> will Hand in Hand; and many will terribly pinch their Bellies to adorn their Backs, and other tumble with great willingneſs on their Backs to pleas their Bellies.</p>
+               <p>Whoreing will be much rail'd againſt in our Churches, but never more practiſed in Chambers; and many <hi>London</hi> Prentices will be forced this Year to eat <hi>Suffolk</hi> Cheeſe, to advance their Maſter Daughters to the Boarding-School. Honeſty will be reduced to a very low Condition, and be forced tug many a Knave by the ſleeve to put him in mind of his promiſe, (but in vain) and Vertue in plain dreſſe will be force'd to pin up Vices fine Gown for a Liv<g ref="char:EOLhyphen"/>lihood. Juſtice will be in many Men's Mouthes, but in few Men's Hearts, we ſhall hear often of her name, but know not where to find her, and where ſhe ought to Dwell, we ſhall not dare to look for her.</p>
+               <p>This Year will a riſe ſharp diſputes among Prentice Boys, Chamber-Maids and Cook Maids about <hi>Gipſies</hi> and <hi>Aſtrologers,</hi> which of them tells Fortunes trueſt, and after a great many nice Arguments, pro's and cons, <hi>&amp;c.</hi> it will be decided in favour of the Saffron coloured Deviners, becauſe they diſpatch their Buſineſs ſooneſt and for leſs Money.</p>
+               <p>The Malice of Law Adverſaries will be pretty well aſwaged when the Term's over; the long Bills of Attornies and Petty-foggers will make them agree to call themſelves Fools, and their Lawyers Knaves, and will make a promiſe to renounce the Law for the future as good Chriſtians do the Devil and all his Works.</p>
+               <p>Thoſe Sparks who cuold not purchas new Choathes at <hi>Eaſter,</hi> will be glad to have them at <hi>Whitſton tide,</hi> and if they miſs of 'em then (as I am ſure a great many will) Eſpecially Women, they'll go near to beare them in their minds, nine Monthes after; a great deal of Money will this Summer be vainly flung-away on Wine and Women, and ſuch like alluring Commodites, by many boiſterous Youngſters, who have a bundance more Welth than Wit, but they <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll in a little time ſo order the matter, that they'll bring them both to an e<g ref="char:EOLhyphen"/>qual Ballance.</p>
+               <p>Many a hopeful and pretty Young Maid will go a mile, or two out of <gap reason="illegible" resp="#UOM" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> own in the Hollydays, and forgetting herſelf will loſe that in few minits which ſhe'll never find again as long as ſhe Livers.</p>
+               <p>
+                  <hi>Lotteries</hi> and looſe Lives will multiply exceedingly this Year; till they both become the only Pick-pockets of this Age tho with this difference, the former will do it with your Conſent and the latter without it.</p>
+               <p>Every <hi>Gardener</hi> will ſhortly be as buſſo as Father <hi>Adam</hi> in <hi>Paradice,</hi> to turn Horſe-Dung into Raddſhies, and Ram's Horn's, into Sparrowgraſs, Ay and will be verry angry too if any of the Family ſhall preſume to lay a ſirs R—ce <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ut of his own Ground inſomuch that abundance of Dung-hills a'rather ſide the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ater will be mightily improved, to raiſe a Summers feaſt, but the firſt of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>heir courſe muſt be ſauce for my <hi>Lady.</hi>
+               </p>
+               <pb n="3" facs="tcp:29803:2"/>
+               <p>
+                  <hi>Many</hi> Citizens with Jealous hearts and horned-heads will this Summer be tormented with Curtain <hi>Lectures</hi> for New Gowns, Petticoats and other fine Nick-knacks, and if there Wives requeſt be not granted, they ſhall be lead as bad a Life, as a ſturdy Beggar in the Houſe of Correction.</p>
+               <p>Thoſe who have buckſom Young Daughters, muſt this Year take care to provide them Husbands, or elſe Guid them with a very ſtrit rein, otherwiſe the active motion of the Spirits, this Spring ſeaſon will beget ſuch an itch in their Tails that will make them Door on <hi>your</hi> Apprentices, or (which is much worſe) ſuffer their heels to be trip<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t up by their ſerving Men the firſt oppertunity.</p>
+               <p>Punks that are poor, will begin to dread the Approaching diſmal Summer, for Conſequently an <hi>Empty</hi> Town ſoon produces <hi>Emty</hi> Purſes, and want of <hi>Money</hi> the worſt of in fam; for ſhe that had the Honour to be Debauch'd by a Duke may in a little time (except the kind influence of her Stars prevent it) be kick't by his Foot-Man, or be glad to be kiſs'd by a Porter. For many a topping Laſs (now at Guinea purchaſe) will dwindle from her <hi>Veluet-Scarff</hi> in<g ref="char:EOLhyphen"/>to Ruſty Lute-ſtring and will <hi>willingly</hi> be at a Coach-Man's ſervice for a caſt of his Ofice and a Quarten of <hi>Brandy,</hi> and think it a good Eveing work.</p>
+               <p>
+                  <hi>We ſhall certainly hear of great ſtrife between the</hi> Pawn-Broker <hi>and</hi> Tally-Man, <hi>about their Honeſly tho both in th<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>is Dealings (according to Cuſtom<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>) will ſtrive who ſhould run firſt to the Devil Head-long</hi>
+               </p>
+               <p>Farmers, <hi>like their Corn, now begin to prick up their Ears, tho they Labour between the paſſion of hope and fear; and pray as often for a dry hirveſt as the juſt Man Sins in a day, and when he has it in his Born, he will chuſe raither to let the Mice, and Wea<g ref="char:EOLhyphen"/>vells, eat it than the poor ſhould have it at a reaſonable price.</hi>
+               </p>
+               <p>
+                  <hi>More Trades Men will be ſeen playing in the fields, (eſpcinlly</hi> Weavers) <hi>then work<g ref="char:EOLhyphen"/>ing in their Shops, he that hath Money may ſpend it, with much pleaſure, and he that hath none, may ſleep under a Hedge without any danger of having his Pocket pick<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d.</hi>
+               </p>
+               <p>Weavers, <hi>as well as Jouray men</hi> Taylors, <hi>will be glad to make many a meal of Cucumbers this Summer, or elſe go to</hi> Lambs-Cunduict, <hi>and Drink a health to Duke</hi> Humphrey, <hi>and intreat Providence upon their bended Knees to take a way their Sto<g ref="char:EOLhyphen"/>machs, or ſend them a ſhower of Bread and Cheeſe, for tho (perhaps) meat may be pritty Cheep, yet money will be ſcarce, that if an Ox re<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d-roaſted could be for a Penny, if he</hi> wants both coin and Credit, if he's too proud to Beg and to Honeſt to ſteal, is in the midſt of Plenty in a very likely condition to go with out a Dinner.</p>
+               <p>Journey-Men <hi>Shoe-makers,</hi> Notwithſtanding the raging diſtemper of Poverty among tham, yet they'll be ſo proud as ſcorn to work on a <hi>Monday,</hi> that they may return to their work with clear Pockets, and ſafe Conſcences, and I'll ſay that for 'em the beſt of Chriſtians can't be more thoughtful on their Laſt, their Lives 'its true are but dangerous Examples for the Righteous to fol<g ref="char:EOLhyphen"/>low, yet by the Doctrine of the Hammer they'll make more good Souls in one Twelue-Month, than the Clergy do in Seven. This year <hi>Diſtillers</hi> will turn Negromances (alias Conjurers) and raiſe a bundance of Evil Spirits. not only from allſorts of Corn, but out of Carrots, &amp; Turnops too which will poſſeſſe the People, as the Devil did the Herd of Swine, to the utter diſtruction of thoſe who fall under their Enchantments, or are Bewitch'd by 'em, which, will be the only occaſion of advancing Hogwaſh to the great Injury of <hi>Iſlington</hi> Swine:heards, as well as the Damage of <hi>Bar<g ref="char:EOLhyphen"/>tholomew-Fair</hi> Porky if they are not ſuddainly Conjured down, or at leaſt carefully bound in Fetters of forbearance by the Wiſdom of our great Aſſembly, to prevent poiſoning the Subjects.</p>
+               <p>Church-wardens will be accounted grand Knaves, by the reſt of theire Pariſh, let them look too't as well as they can, for thoſe Sinners who fall into there Clutches for anſwer the end of the Crea<g ref="char:EOLhyphen"/>tion,
+<pb n="4" facs="tcp:29803:3"/>will wiſh he had been Gelt; for indeed its ſomthing hard to pay for taking their own Wives Linnen up: Thoſe players who not long ſince liv'd by playing to Fool, muſt now linch out of theſe Eliment, and ſet their wits to work, otherwiſe they'll find little elſe the do, but to ly a Bed and ſtuddy their parts againſt next Micheal-Maſs to play the Knave.</p>
+               <p>There will be more Religions this Summer than ever, and yet never leſs Piety; Chliſtians will pre<g ref="char:EOLhyphen"/>fer their eaſe before their devotion and think the Weather too hot to ſerve God in Crouds, for which reaſon the Church will have but thin Congregations.</p>
+               <p>There will certainly alſo be a great Quarrel between Rooks and Jack-Daws, about which of them are faireſt, which will occaſion abundance of Chattring on both ſides to little purpoſe, till the Eagle under takes to decide the Differance.</p>
+               <p>Strange things will be reported this Year without truth, and belived with reaſon, and all ſides will Expect miracles to be wrought, but if nothing come on't, they muſt ſit down (tho not contented)</p>
+               <p>Swines Fleſh and Whores Fleſh will be as Common as Beef and Mutton at <hi>Leaden-Hall-Market;</hi> Eſpecially about the latt end of <hi>Auguſt,</hi> but he that wants Skill to Chooſe will Certainly be Cheated if he meddles with Either, for the one will be very incident to the Pox, and the other to the Meaſles, at which time a great many Strong. Beaſtes will be there to be ſeen, and a great many worſe Creaturs to be felt. And for Deſeaſes the Pox and Poverty, above all will be the moſt em<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>idemicd, and will as often meet together, as the Ague and Feaver.</p>
+               <p>Vertue and Villainy are like to meet with equal Encouragement, For as many will be Starv'd <hi>for</hi> the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Honeſt ashang'd for their Rogeury, only with this differance Poverty ſhall take away the Life of the former without a manifeſt Crime, whileſt the Law ſhall require Evidence to prove the latter.</p>
+               <p>All ſorts of Rogues vvill be novv very Induſterous in their ſeveral ſtations to get Money, even from the the <hi>Lottery</hi> Man to the the Common Pick-pocket, and all ſorts of fools as buſie in ſpend<g ref="char:EOLhyphen"/>ing on't, and Many a Jilt vvill play the part of a Queen in a foul Smock, and many a Knave <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<g ref="char:EOLhyphen"/>preſent a ſtates Man.</p>
+               <p>Leacherous Bullies, vvil this Year be ſo buſie in Robbing Young hanſome Women of their Ho<g ref="char:EOLhyphen"/>neſty, that in order to be reveng'd on 'mand to prevent it, many vvill be ſo ſubtil as never to carry <hi>
+                     <gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ne</hi> Dram <hi>of</hi> it <hi>about</hi> 'em for the future, and by that meanes the <hi>Bully's</hi> vvill be plaguly diſapointed.</p>
+               <p>
+                  <hi>About</hi> Chriſtmas <hi>Hollidays next the Fanatcks will begin to Preach againſt ſuperſticions, Minch-Pyes, and Abominable Plomb-Porridge,</hi> &amp;c. <hi>While on the other Hand the Church of</hi> England <hi>w<gap reason="illegible" resp="#UOM" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap> as Stoutly Stand up for</hi> Chriſtmas <hi>Hoſpitality, In ſhort and for a Concluſion, the Church and Diſſentrs, the Rich and the poor the Clergy, and the Laiety, Winner and the Looſer, Williamite and Jacobite, the Planitive and Defendant will not agree; For Mankind below, like the Elements, above are at vareance one with another, And a Horſe that has a biger Head than I, know's not when they'll be reconciled.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed in the Year, 1699.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
